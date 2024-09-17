@@ -8,7 +8,7 @@ a Minecraft Paper-mc Plugin that filters the chat and removes any flagged messag
 
 
 
-![example_video1](https://github.com/user-attachments/assets/04a63498-0532-4362-be74-07b1c4981e2a)
+https://github.com/user-attachments/assets/04a63498-0532-4362-be74-07b1c4981e2a
 
 
 
