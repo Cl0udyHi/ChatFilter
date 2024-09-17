@@ -1,15 +1,39 @@
 # ChatFilter
-a Minecraft Paper-mc Plugin that filters the chat and removes any flagged messages that contains Blacklisted words that can be added/removed dynamically with a user-friendly GUI menu.
+A Minecraft Paper-mc Plugin designed to filter chat messages, removing any flagged messages containing blacklisted words. Words can be added or removed dynamically through a user-friendly GUI menu.
 
-## Plugin Features:
+## Features
+### 🤬 Flagging Messages
+Messages containing blacklisted words are automatically flagged and removed. This includes direct matches and variations with special characters.
 
-### Opening the Editor menu:
+**Example:** `banana`
+- Direct match: `"banana"`
+- Partial match: `"hello banana"`
+- Disguised format: `"ba$n/a.n-a"`
 
-![Example Video3](https://github.com/user-attachments/assets/f72bc2be-86ba-49aa-9193-0d6658547a3d)
-![Example Video6](https://github.com/user-attachments/assets/245e88db-5b8c-4757-84cb-a3e9e90fe23e)
-![Example Video2](https://github.com/user-attachments/assets/eefd784b-e588-4c33-b0df-c106065c5388)
-![Example Video1](https://github.com/user-attachments/assets/dc9021b0-04c6-4043-9255-f5d0bcfa5383)
-![Example Video5](https://github.com/user-attachments/assets/bb594017-2a47-483b-adec-9bdc927b7ad9)
-![example_video1](https://github.com/user-attachments/assets/1486d5cb-1b9e-431b-832e-ad962615e6d1)
-![Example Video7](https://github.com/user-attachments/assets/9c708b0e-ea75-4257-8759-b9611fe2c61c)
-![Example Video4](https://github.com/user-attachments/assets/d9f3443d-4fe2-4f18-a584-e68e6b818e2f)
+![ApplicationFrameHost_fkFIdCEowT](https://github.com/user-attachments/assets/fc42b6a1-5cdd-4093-8717-a0289c6b1aaa)
+
+### ➕ Adding Words
+- **By Command:** `/chatfilter add [words]`
+- **By GUI:**
+                                                           
+![TK3ugCTBXm (2)](https://github.com/user-attachments/assets/0acb48ee-fbf3-4b9c-9dc0-0053aabb5d9e)    
+
+### ➖ Removing Words
+- **By Command:** `/chatfilter remove [words]`
+- **By GUI:**
+                                                           
+![TK3ugCTBXm (1)](https://github.com/user-attachments/assets/6ac6a686-5cd2-4196-a5b7-2afd188566bd) 
+
+### 🔍 Searching for Words
+![TK3ugCTBXm (4)](https://github.com/user-attachments/assets/936dff81-021b-42fc-b1dd-e06ee9ffd2f2)
+![TK3ugCTBXm (3)](https://github.com/user-attachments/assets/3808cc8e-ae2f-47ec-af61-45f7d485a63a)
+
+## Installation
+[Modrinth](https://modrinth.com/plugin/chatfilter)
+
+## Coming Features
+- Velocity version
+- Search feature through commands
+- Collections
+- regex support
+- `*word`, `word*`, `*word*`
