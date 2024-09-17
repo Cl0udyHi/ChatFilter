@@ -1,0 +1,10 @@
+name: ChatFilter
+version: '${project.version}'
+main: hi.chatfilter.Main
+api-version: '1.21'
+commands:
+  chatfilter:
+    permission: hi.cmd.chatfilter
+    aliases:
+      - filter
+    description: "hi"
