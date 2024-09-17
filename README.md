@@ -4,33 +4,12 @@ a Minecraft Paper-mc Plugin that filters the chat and removes any flagged messag
 ## Plugin Features:
 
 ### Opening the Editor menu:
-![example_video1](https://github.com/user-attachments/assets/2a67b0cb-b2b4-4d97-94a4-a9c684a53d11)
 
-
-
-https://github.com/user-attachments/assets/04a63498-0532-4362-be74-07b1c4981e2a
-
-
-
-![example_video2](https://github.com/user-attachments/assets/b3e63784-a00c-412f-a5d7-d317cdef3051)
-
-
-
-![example_video3](https://github.com/user-attachments/assets/cfde6422-13c8-4806-bef3-b354c2b0c81b)
-
-
-
-![example_video4](https://github.com/user-attachments/assets/90649286-2e11-4702-93c4-f51c504fa724)
-
-
-
-![example_video5](https://github.com/user-attachments/assets/7155cf8f-2926-490d-b12e-a10781db2b70)
-
-
-
-![example_video6](https://github.com/user-attachments/assets/572f5cba-157b-496c-a960-89729ab9d5f8)
-
-
-
-![example_video7](https://github.com/user-attachments/assets/e4d386c3-ec8b-4553-870a-57f2944b9eff)
-
+![Example Video3](https://github.com/user-attachments/assets/f72bc2be-86ba-49aa-9193-0d6658547a3d)
+![Example Video6](https://github.com/user-attachments/assets/245e88db-5b8c-4757-84cb-a3e9e90fe23e)
+![Example Video2](https://github.com/user-attachments/assets/eefd784b-e588-4c33-b0df-c106065c5388)
+![Example Video1](https://github.com/user-attachments/assets/dc9021b0-04c6-4043-9255-f5d0bcfa5383)
+![Example Video5](https://github.com/user-attachments/assets/bb594017-2a47-483b-adec-9bdc927b7ad9)
+![example_video1](https://github.com/user-attachments/assets/1486d5cb-1b9e-431b-832e-ad962615e6d1)
+![Example Video7](https://github.com/user-attachments/assets/9c708b0e-ea75-4257-8759-b9611fe2c61c)
+![Example Video4](https://github.com/user-attachments/assets/d9f3443d-4fe2-4f18-a584-e68e6b818e2f)
