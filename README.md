@@ -30,7 +30,7 @@ Search for blacklisted words easily with the search functionality provided in th
 ![TK3ugCTBXm (3)](https://github.com/user-attachments/assets/3808cc8e-ae2f-47ec-af61-45f7d485a63a)
 
 ## Installation
-To install the plugin, download it from [Modrinth](https://modrinth.com/plugin/chatfilter).
+To install the plugin, download it from <a href="https://modrinth.com/plugin/chatfilter" target="_blank">Modrinth</a>.
 
 ## Coming Features
 - **Velocity/Bungeecord Support**
