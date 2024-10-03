@@ -38,4 +38,4 @@ To install the plugin, download it from <img src="https://github.com/user-attach
 - **More Configuration Options** via the config file
 - **Word Collections:** Custom collections of words based on type or language
 - **Regex Support**
-- **Custom Flagging:** Ability to flag messages only when they start, end, or contain the blacklisted word (*word, word*, *word*)
+- **Custom Flagging:** Ability to flag messages only when they start, end, or contain the blacklisted word (`*word`, `word*`, `*word*`)
